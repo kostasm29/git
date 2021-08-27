@@ -2,5 +2,5 @@ hsfhgfddfhbf
 
 asfgnasujfghas
 
-
-my name is kostas
+var k ; 
+let m ;
